@@ -1,0 +1,461 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "File:Championnat_Monde_(qualif)_2013_-_1.JPG",
+        "to": "File:Championnat Monde (qualif) 2013 - 1.JPG"
+      },
+      {
+        "from": "File:Championnat_Monde_(qualif)_2013_-_M65.JPG",
+        "to": "File:Championnat Monde (qualif) 2013 - M65.JPG"
+      },
+      {
+        "from": "File:Combat_2013_-_Crédit-A.ANSART.JPG",
+        "to": "File:Combat 2013 - Crédit-A.ANSART.JPG"
+      },
+      {
+        "from": "File:Chaussure_savate.JPG",
+        "to": "File:Chaussure savate.JPG"
+      }
+    ],
+    "pages": {
+      "27397472": {
+        "pageid": 27397472,
+        "ns": 6,
+        "title": "File:Championnat Monde (qualif) 2013 - 1.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Championnat_Monde_%28qualif%29_2013_-_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Championnat_Monde_(qualif)_2013_-_1.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27397472",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-07-23 10:38:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Championnat Monde (qualif) 2013 - 1",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D3100|Savate|Self-published work|Sportspeople from France in 2013|France photographs taken on 2013-06-07",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Championnat Monde (qualif) 2013 - M",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-06-07 17:37:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lyliade21&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lyliade21 (page does not exist)\">Lyliade21</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27397478": {
+        "pageid": 27397478,
+        "ns": 6,
+        "title": "File:Championnat Monde (qualif) 2013 - M65.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Championnat_Monde_%28qualif%29_2013_-_M65.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Championnat_Monde_(qualif)_2013_-_M65.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27397478",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-07-23 10:38:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Championnat Monde (qualif) 2013 - M65",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D3100|Savate|Self-published work|Sportspeople from France in 2013|France photographs taken on 2013-06-08",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Championnat Monde (qualif) 2013 - M65",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-06-08 01:41:48",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lyliade21&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lyliade21 (page does not exist)\">Lyliade21</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "29472386": {
+        "pageid": 29472386,
+        "ns": 6,
+        "title": "File:Chaussure savate.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Chaussure_savate.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chaussure_savate.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29472386",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-11-07 15:55:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chaussure savate",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Samsung Galaxy S II|Self-published work|Adidas shoes",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chaussure de savate boxe française homologuée par la fédération de ce sport.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-11-07 16:14:34",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Marchall&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Marchall (page does not exist)\">Marchall</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27397252": {
+        "pageid": 27397252,
+        "ns": 6,
+        "title": "File:Combat 2013 - Crédit-A.ANSART.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Combat_2013_-_Cr%C3%A9dit-A.ANSART.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Combat_2013_-_Cr%C3%A9dit-A.ANSART.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27397252",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-07-23 10:22:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Combat 2013 - Crédit-A.ANSART",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D3100|Savate|Self-published work|Sportspeople from France in 2013|France photographs taken on 2013-06-07",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Combat - savate boxe française\nChampionnat Monde 2013",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-06-07 16:47:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lyliade21&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lyliade21 (page does not exist)\">Lyliade21</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "161170348": {
+        "pageid": 161170348,
+        "ns": 6,
+        "title": "File:Castérès démontre un coup de pied de flanc - btv1b53207162x.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Cast%C3%A9r%C3%A8s_d%C3%A9montre_un_coup_de_pied_de_flanc_-_btv1b53207162x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cast%C3%A9r%C3%A8s_d%C3%A9montre_un_coup_de_pied_de_flanc_-_btv1b53207162x.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=161170348",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-03-05 04:58:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nCastérès démontre un coup de pied de flanc : [photographie de presse] / [Agence Rol]</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Artworks without Wikidata item|Savate|PD-1996|Large images|PD US expired|PD France|Files from Gallica|Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot|Photographs by Agence Rol in the Bibliothèque nationale de France|1906 photographs by Agence Rol|Boxing photographs by Agence Rol|Charles Charlemont|1905 black and white portrait photographs of boxers of France|Victor Castérès|France photographs taken on 1906-03-03|Black and white photographs from Gallica",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nAgence Rol. Agence photographique (commanditaire)</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Sujet : Castérès, Victor (1866-1954)\n<p>Boxe française\nBoxeurs -- Entraînement\nRéférence bibliographique : K257591\nAppartient à l’ensemble documentaire : Pho20Rol\nImage de presse\nCouverture : 03 mars 1906\n</p>\nLangue : français",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1906<div style=\"display: none;\">date QS:P571,+1906-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Bibliothèque nationale de France",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
